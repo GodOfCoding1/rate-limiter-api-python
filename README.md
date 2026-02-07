@@ -1,6 +1,6 @@
 # Rate Limiter
 
-> This project was built using **multi-step planning with agent LLMs** — the design was iteratively refined through structured Q&A, a formal architecture plan was produced, and the implementation was executed step-by-step following that plan.
+> This project was built using **multi-step planning with agentic LLMs** — the design was iteratively refined through structured Q&A, a formal architecture plan was produced, and the implementation was executed step-by-step following that plan.
 
 ## Implementation
 
